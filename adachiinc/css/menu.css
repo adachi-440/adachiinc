@@ -1,0 +1,31 @@
+#header{
+  padding:5px;
+  background: skyblue;
+}
+#menu1{
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+  transition: 0.3s;
+}
+#menu1:hover{
+  opacity: 0.6;
+}
+#menu2{
+  font-weight: bold;
+  float: right;
+  text-decoration: none;
+  margin-right: 20px;
+  transition: 0.3s;
+}
+#menu2 i{
+  color: black;
+  position:relative;
+  top:3px;
+  padding-right: 3px;
+}
+
+
+#menu2:hover{
+  opacity: 0.6;
+}

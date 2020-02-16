@@ -1,0 +1,17 @@
+#resister  {
+  width: 500px;
+  height: 100px;
+  padding: 15%
+
+
+}
+#resister input{
+  margin: 10px;
+  width: 400px;
+  height: 25px;
+}
+#buttom input{
+  align-items:   center;
+  width: 100px;
+  height:500px;
+}
